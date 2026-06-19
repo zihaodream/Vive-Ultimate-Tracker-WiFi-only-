@@ -1,6 +1,10 @@
 # Vive Ultimate Tracker WiFi-only Bridge
 
-一个非官方 VIVE Ultimate Tracker WiFi-only 多追踪器桥接工具。本项目可以让多台 VIVE Ultimate Tracker 不通过官方接收器，直接接入普通 5GHz WiFi 路由器，由 PC 接收 Tracker 的姿态数据，再转发为 SteamVR / OpenVR Tracker 使用。它的目标是降低 Ultimate Tracker 对官方连接流程、官方接收器、特定使用场景和多点方案的依赖。理论上用户可以自行优化算法，同时突破标准 5 点上限，让已经拥有设备的用户可以更自由地使用自己的硬件。
+VIVE Ultimate Tracker WiFi-only 多追踪器桥接工具。
+本项目可以让多台 Ultimate Tracker 不通过官方接收器，直接接入普通 5GHz WiFi 路由器，由 PC 接收 Tracker 的姿态数据，再转发到 SteamVR / OpenVR Tracker 使用。
+它的目标是降低UTK对官方流程和限制的依赖。
+目前已经实现突破官方接收器方案的最大5点限制，使其能像tracker3.0一样无限制使用。
+理论上用户可自行优化算法和流程，也可以摆脱UTK在传统方案下的使用局限性，使其在更多领域展现出使用价值。
 
 
 ## 使用前必读
