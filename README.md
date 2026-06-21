@@ -12,7 +12,7 @@ VIVE Ultimate Tracker WiFi-only 多追踪器桥接工具。
 理论上用户可自行优化算法和流程，也可以摆脱UTK在传统方案下的使用局限性，使其在更多领域展现出使用价值。
 
 
-## 使用前必读
+## 使用前必读 （The English version follows the Chinese version below.）
 
 使用前请先阅读：
 
@@ -21,6 +21,9 @@ VIVE Ultimate Tracker WiFi-only 多追踪器桥接工具。
 English guide:
 
 [Usage Guide.md](Usage%20Guide.md)
+
+
+The English version follows the Chinese version below.
 
 建议使用者具备基本的网络、刷机和计算机操作知识，能够理解局域网 IP、ADB / bootloader 驱动、SteamVR driver、刷机风险和设备恢复流程。
 
